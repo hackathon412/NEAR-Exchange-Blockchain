@@ -1,0 +1,10 @@
+[package]
+name = "orderbook"
+version = "0.1.0"
+authors = ["Anton Dort-Golts <dortgolts@gmail.com>"]
+
+[dependencies]
+serde = { version = "1.0.138", features = ["derive"] }
+near-sdk = "4.0.0-pre.8"
+near-contract-standards = "4.0.0-pre.8"
+float-cmp = "0.8.0"

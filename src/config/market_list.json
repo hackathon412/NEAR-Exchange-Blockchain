@@ -1,0 +1,10 @@
+[
+  {
+    "chainId": 1,
+    "market": "BTC-USDT"
+  },
+  {
+    "chainId": 1,
+    "market": "BNB-USDT"
+  }
+]
