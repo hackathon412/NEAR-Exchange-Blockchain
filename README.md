@@ -7,7 +7,7 @@
 
 
 ## Marching Engine
-The smart contract implements a matching engine with NEAR's Rust smart contract language. It maintains two groups of orders, Bid(buy) and ask(sell) orders with rust BinaryHeap data structure for fast searching and inserting orders.The Matching Engine is generally responsible for determining if a set of two or more orders "match" and settle the orders.
+The smart contract implements a matching engine with NEAR's Rust smart contract language. It maintains two groups of orders, bid(buy) and ask(sell) orders with rust BinaryHeap data structure for fast searching inserting and prioritizing orders. The Matching Engine is generally responsible for determining if a set of two or more orders "match" and settle the orders.
 
 
 ## Project Setup 
