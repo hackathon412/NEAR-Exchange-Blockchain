@@ -46,7 +46,7 @@ https://youtu.be/Mq8Bof4WNps
 
 
 ## Further Development Plan
-- Implements a indexer for monitoring smart contract activities and record the activities accordingly.
+- Implements an indexer for monitoring smart contract activities and record the activities accordingly.
 - Persist the user trading history and marketing trading history to off-chain database for query.
 - Optimize smart contract and improve UI & UX.  
 
