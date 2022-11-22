@@ -19,7 +19,7 @@ The smart contract implements a matching engine with NEAR's Rust smart contract 
 
 ### Web
 - cd src
-- yarn && yarn dev
+- yarn && yarn serve
   
 ## Tech Stack Used
  - Vue
