@@ -37,7 +37,7 @@ The smart contract implements a matching engine with NEAR's Rust smart contract 
 
 
 
-## [Demo Site](http://47.240.61.73)
+## [Demo Site](https://near-drab.vercel.app/)
 
 
 ## YouTube Demo
