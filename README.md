@@ -6,7 +6,7 @@
  NEAR Exchange is a set of open source smart contracts for implementing NEP-14 token exchange capabilities on [NEAR Protocol](https://near.org).It is an on-chain orderbook based exchange that lets user trade fungible tokens (NEP-141) . User can place Market&Limit order on the exchange to trade the assets. The platform is entirely decentralized and is open source, you can be rest assured that your transactions are safe and trustless.
 
 
-## Marching Engine
+## Matching Engine
 The smart contract implements a matching engine with NEAR's Rust smart contract language. It maintains two groups of orders, bid(buy) and ask(sell) orders with rust BinaryHeap data structure for fast searching inserting and prioritizing orders. The Matching Engine is generally responsible for determining if a set of two or more orders "match" and settle the orders.
 
 
